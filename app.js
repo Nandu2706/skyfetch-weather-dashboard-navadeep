@@ -195,4 +195,4 @@ WeatherApp.prototype.showError = function (message) {
 /* ===============================
    CREATE APP INSTANCE
 ================================ */
-const app = new WeatherApp("YOUR_API_KEY_HERE");
+const app = new WeatherApp("531d6a8a7deae269f53233b14a0733d1");
